@@ -1,2 +1,2 @@
-# 0814-ex1
-
+# ky-mern-ex1
+MERN 실습1
